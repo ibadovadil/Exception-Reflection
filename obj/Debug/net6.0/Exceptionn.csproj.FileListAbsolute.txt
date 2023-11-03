@@ -1,0 +1,28 @@
+C:\Users\Birinci Novbe\Desktop\Exceptionn\bin\Debug\net6.0\Exceptionn.exe
+C:\Users\Birinci Novbe\Desktop\Exceptionn\bin\Debug\net6.0\Exceptionn.deps.json
+C:\Users\Birinci Novbe\Desktop\Exceptionn\bin\Debug\net6.0\Exceptionn.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\Exceptionn\bin\Debug\net6.0\Exceptionn.dll
+C:\Users\Birinci Novbe\Desktop\Exceptionn\bin\Debug\net6.0\Exceptionn.pdb
+C:\Users\Birinci Novbe\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.dll
+C:\Users\Birinci Novbe\Desktop\Exceptionn\obj\Debug\net6.0\refint\Exceptionn.dll
+C:\Users\Birinci Novbe\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.pdb
+C:\Users\Birinci Novbe\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\Exceptionn\obj\Debug\net6.0\ref\Exceptionn.dll
+C:\Users\Adil\Desktop\Exceptionn\bin\Debug\net6.0\Exceptionn.exe
+C:\Users\Adil\Desktop\Exceptionn\bin\Debug\net6.0\Exceptionn.deps.json
+C:\Users\Adil\Desktop\Exceptionn\bin\Debug\net6.0\Exceptionn.runtimeconfig.json
+C:\Users\Adil\Desktop\Exceptionn\bin\Debug\net6.0\Exceptionn.dll
+C:\Users\Adil\Desktop\Exceptionn\bin\Debug\net6.0\Exceptionn.pdb
+C:\Users\Adil\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.AssemblyInfo.cs
+C:\Users\Adil\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.dll
+C:\Users\Adil\Desktop\Exceptionn\obj\Debug\net6.0\refint\Exceptionn.dll
+C:\Users\Adil\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.pdb
+C:\Users\Adil\Desktop\Exceptionn\obj\Debug\net6.0\Exceptionn.genruntimeconfig.cache
+C:\Users\Adil\Desktop\Exceptionn\obj\Debug\net6.0\ref\Exceptionn.dll
