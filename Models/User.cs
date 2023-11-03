@@ -64,7 +64,7 @@ namespace Exceptionn.Models
         //    }
         //}
 
-        //Task 2 (Refcelction)
+        //Task 2 (Reflection)
 
         private int _id;
         private string _name;
